@@ -30,8 +30,7 @@ Feel free to look around, learn from my successes and setbacks, and hopefully be
   <img alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
   <img alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>![image](https://user-images.githubusercontent.com/56076011/232852723-77515cae-38db-4c7a-8394-0089d9c5fd58.png)
-
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
   <img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
   <img alt="Swift" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
