@@ -1,7 +1,8 @@
 <div align="center">
   <h3 align="center">
    Greetings 🖖
-  </h3>
+  </h3>  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDcxYjEzNjIwMzVjNjQxNGRiZmVmNjQ2YWQ1YmE1M2FiYjY0YjU5YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LTjllvcQtXEdtg51JS/giphy.gif" width="500"/>
 
   <p align="center">
 I am an enterprising software developer looking to advance our society through the effective application of technology and software. I strive to extend accessibility to computer science learning opportunities and work towards multidisciplinary solutions for societal issues.</p>
