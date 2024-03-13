@@ -78,7 +78,7 @@ Feel free to look around, learn from my successes and setbacks, and hopefully be
   <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
   <img title="DigitalOcean" alt="DigitalOcean" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"/>
   <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
-  <img title="AWS" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+  <img title="AWS" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
   <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
   <img title="git" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734"/>
