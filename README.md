@@ -2,15 +2,43 @@
   <h3 align="center">
    Greetings 🖖
   </h3>  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFlZTYyZjA5NDU5ZDE2MzQ0ZmE5YThjZWQzMDUwOGE0OGIwZDY2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/hmwTONDeH6ztKeOszF/giphy.gif" width="500"/>
+  <img src="https://imgur.com/XMhBqBD.gif" width="500"/>
 
   <p align="center">
-I am an enterprising software developer looking to advance our society through the effective application of technology and software. I strive to extend accessibility to computer science learning opportunities and work towards multidisciplinary solutions for societal issues.</p>
+I'm a innovative software developer with a passion for leveraging technology to drive positive societal change. I'm committed to extending access to computer science education and engineering solutions that tackle real-world challenges. My approach is results-driven, fueled by continuous learning across diverse domains. I dedicate myself to empowering projects, teams, and pushing the boundaries of knowledge through developing robust, efficient code.</p>
+
+
+  <p>Currently, I'm pursuing my Computer Science degree at the <a href="https://illinois.edu/" target="_blank">University of Illinois Urbana-Champaign</a> in the Grainger College of Engineering. My leadership roles include serving as the Co-Director at <a href="https://info.hackillinois.org" target="_blank">HackIllinois</a>, Infrastructure Project Lead at <a href="https://www.acm.illinois.edu/" target="_blank">ACM @ UIUC</a>, and Technology Committee Chair at <a href="https://www.nobeillinois.org/" target="_blank">NOBE Illinois</a>.</p>
+
+
+
+<!--
+<table align="center">
+    <tr>
+      <td>
+        <h3>Currently</h3>
+        <br>
+        <p>• 🎓 Studying CS @ <a href="https://illinois.edu/" target="_blank"> Illinois</a></p>
+        <p>• 💻 Co-Director, <a href="https://info.hackillinois.org" target="_blank">HackIllinois</a></p>
+        <p>• 🛠️ Infra Project Lead, <a href="https://www.acm.illinois.edu/" target="_blank">ACM @ UIUC</a></p>
+        <p>• 📊 Tech Committee Chair, <a href="https://www.nobeillinois.org/" target="_blank">NOBE Illinois</a></p>
+      </td>
+    </tr>
+  </table>
 
   <p align="center">
 I am currently studying <b>Computer Science in the Grainger College of Engineering at the University of Illinois at Urbana-Champaign</b>, looking to explore the world of technology and software, <i>one step at a time</i>.</p>
   <p align="center">
-    I do my best to help those around me, through <a href="https://compscikids.net">teaching</a>, <a href="https://anandani4136.github.io/Stock-Market-Analysis/">creating useful applications</a>, or simply offering aid whenever I can. </p>
+    I do my best to help those around me, through <a href="https://compscikids.net">teaching</a>, <a href="https://anandani4136.github.io/Stock-Market-Analysis/">creating useful applications</a>, or simply offering aid whenever I can. </p> 
+    
+    <td>
+        <h3>Previously</h3>
+        <p>• 👀 Many more things!</p>
+      </td>
+    
+    
+    
+    -->
 
   <p align="center">
 Feel free to look around, learn from my successes and setbacks, and hopefully be inspired for your next creation. <b>Please do not hesitate to contact me with any questions, comments, or anything you would like to share!</b></p>
@@ -18,6 +46,7 @@ Feel free to look around, learn from my successes and setbacks, and hopefully be
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ranandani)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.ronitanandani.com)
+
 
 <h3 align="center">
    Skills
