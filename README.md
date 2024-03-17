@@ -38,19 +38,19 @@ I am currently studying <b>Computer Science in the Grainger College of Engineeri
     
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ranandani)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.ronitanandani.com)
-    
-    -->
 
+  <img src="https://komarev.com/ghpvc/?username=anandani4136&style=for-the-badge&color=blue" alt=""/>
+
+    -->
   <p align="center">
 Feel free to look around, learn from my successes and setbacks, and hopefully be inspired for your next creation. <b>Please do not hesitate to contact me with any questions, comments, or anything you would like to share!</b></p>
     
-
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranandani)
 [![Website Badge](https://img.shields.io/badge/website-000?color=gray&style=for-the-badge&logo=google%20chrome&logoColor=white)](https://www.ronitanandani.com)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?color=591515&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ra7353@hotmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue" alt=""/>
+
 <h3 align="center">
    Skills
   </h3>
